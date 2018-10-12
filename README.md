@@ -1,3 +1,25 @@
 # Materialize Task List v1
 
-## simple but important functionality cover events and handlers along some materialize UI
+## simple task list that uses many fundamentals of Vanilla Javascript
+
+* fundamentals covered include:
+
+Query Selector
+
+Event Listeners
+
+if statements
+
+.className
+
+.innerHTML
+
+appendCHild
+
+localStorage
+
+Arrays
+
+Parsing and stringify
+
+filtering of tasks and setting CSS
